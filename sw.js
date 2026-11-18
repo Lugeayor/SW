@@ -1,5 +1,5 @@
 //CONSTANTES DE ALMACENAMIENTO CACHE
-const CACHE ='cache-1';
+const CACHE ='cache-2';
 const CACHE_DINAMICO ='dinamico-1';
 const CACHE_ESTATICO ='estatico-1';
 const CACHE_INMUTABLE ='inmutable-1';
