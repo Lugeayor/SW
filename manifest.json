@@ -2,8 +2,8 @@
     "short_name":"PWA SW",
     "name":"Manifest SW",
     "start_url":"index.html",
-    "background_color":"#C2BE25",
-    "theme_color":"#C2BE25",
+    "background_color":"#9e902f",
+    "theme_color":"#9e902f",
     "display":"standalone",
     "orientation":"portrait",
 
